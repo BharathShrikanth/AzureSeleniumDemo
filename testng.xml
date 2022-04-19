@@ -7,7 +7,7 @@
 			<package name="azureSeleniumDemo" />
 		</packages> <!-- Packages --> 
 		<classes>
-                        <class name="testng.MavenTest1" />
+                        <class name="azureSeleniumDemo.MavenTest1" />
 		</classes>
 		
 	</test> <!-- Test -->
